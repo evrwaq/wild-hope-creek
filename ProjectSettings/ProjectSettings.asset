@@ -635,10 +635,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 80c1535d-cd30-42fc-99d0-d7831688af3b
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: wild-hope-creek
-  organizationId: evrwaq
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
